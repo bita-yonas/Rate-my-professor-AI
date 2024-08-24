@@ -242,7 +242,7 @@ export default function Home() {
                 borderRadius: '8px',
                 '&:hover': { backgroundColor: '#4338ca' },  // Slightly darker on hover
               }}
-              onClick={() => alert('About information goes here.')}  // Placeholder for the About button
+              onClick={() => alert('AI RateProfs is an innovative web app designed to help students make informed decisions by providing AI-generated insights and ratings for professors. By leveraging advanced web scraping techniques and Pinecone’s vector database, the app delivers accurate, up-to-date information with a user-friendly interface. Developed by Bitania Yonas, a passionate Computing Science student, AI RateProfs exemplifies her commitment to merging technology and education for the betterment of the academic community.')}  // Placeholder for the About button
             >
               About
             </Button>
