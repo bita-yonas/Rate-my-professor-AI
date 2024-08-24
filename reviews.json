@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Johnson is an amazing professor! Her lectures are clear, and she is always available for extra help."
+      },
+      {
+        "professor": "Dr. Robert Smith",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Great teacher, but his exams are tough. Make sure to attend all classes and do the assignments."
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Davis knows her stuff, but her lectures can be a bit dry. The course material is interesting though."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Challenging course, but Dr. Brown makes the concepts understandable and engaging. Highly recommend."
+      },
+      {
+        "professor": "Dr. Linda Wilson",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. Wilson is a good professor, but her grading is very strict. Pay attention to lab work."
+      },
+      {
+        "professor": "Dr. James Taylor",
+        "subject": "History",
+        "stars": 2,
+        "review": "Lectures are not very engaging, and he reads off slides most of the time. Not my favorite class."
+      },
+      {
+        "professor": "Dr. Patricia Lee",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Dr. Lee is excellent! She makes economics easy to understand and is very passionate about the subject."
+      },
+      {
+        "professor": "Dr. William Moore",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "The class is okay, but Dr. Moore's exams are tricky. Study hard and ask questions during lectures."
+      },
+      {
+        "professor": "Dr. Jessica Clark",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Interesting course and Dr. Clark is very knowledgeable. Sometimes the readings are a bit too much."
+      },
+      {
+        "professor": "Dr. Richard Hall",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Dr. Hall is a fantastic professor! His classes are thought-provoking and he encourages open discussion."
+      },
+      {
+        "professor": "Dr. Sarah Allen",
+        "subject": "English",
+        "stars": 4,
+        "review": "Dr. Allen is a great professor, but the workload can be intense. Be prepared to write a lot."
+      },
+      {
+        "professor": "Dr. Thomas King",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "The class material is interesting, but Dr. King doesn't seem very engaged with the students."
+      },
+      {
+        "professor": "Dr. Elizabeth Wright",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Wright is passionate about art history and it shows. Her lectures are captivating and informative."
+      },
+      {
+        "professor": "Dr. George Harris",
+        "subject": "Environmental Science",
+        "stars": 3,
+        "review": "Dr. Harris is knowledgeable, but his teaching style is a bit monotonous. The labs are fun though."
+      },
+      {
+        "professor": "Dr. Mary Martin",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Interesting course with a lot of fieldwork. Dr. Martin is approachable and helpful."
+      },
+      {
+        "professor": "Dr. Charles White",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Dr. White is a brilliant musician and an even better teacher. He makes complex concepts easy to grasp."
+      },
+      {
+        "professor": "Dr. Barbara Young",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Statistics is a tough subject, and Dr. Young's lectures are sometimes hard to follow. Study groups help."
+      },
+      {
+        "professor": "Dr. Christopher Green",
+        "subject": "Law",
+        "stars": 4,
+        "review": "Dr. Green is very knowledgeable, but his classes are fast-paced. Be sure to keep up with the reading."
+      },
+      {
+        "professor": "Dr. Jennifer Adams",
+        "subject": "Marketing",
+        "stars": 5,
+        "review": "Dr. Adams is an outstanding professor! Her classes are interactive and relevant to real-world marketing."
+      },
+      {
+        "professor": "Dr. Paul Nelson",
+        "subject": "Finance",
+        "stars": 2,
+        "review": "Finance is a difficult subject and Dr. Nelson's teaching style doesn't make it any easier."
+      }
+    ]
+  }
