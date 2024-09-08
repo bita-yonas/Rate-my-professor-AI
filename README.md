@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AI Rate My Professor Web App
 
-## Getting Started
+Welcome to the **AI Rate My Professor** web app, a tool designed to help students easily search and find information about professors using artificial intelligence and web scraping technologies. This project uses AI to scrape data from Rate My Professor and other sources to provide detailed insights on professors across various institutions.
 
-First, run the development server:
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+- [License](#license)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Overview
+The **AI Rate My Professor Web App** allows users to submit links to professor pages on Rate My Professor, and automatically scrapes data from those pages using web scraping techniques. The app leverages AI to generate useful insights and organizes the data in a searchable format using Pinecone for fast retrieval.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The app is designed to assist students in making more informed decisions when selecting courses or professors by aggregating and analyzing publicly available data.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Features
+- Submit links to Rate My Professor pages
+- Automatically scrape and store professor data
+- Search and filter professor data
+- AI-based recommendations and analysis
+- Pinecone integration for fast data retrieval
+- RAG (Retrieval Augmented Generation) AI model for enhanced data processing
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Tech Stack
+- **Frontend**: Next.js, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **AI/ML**: Pinecone, Cheerio for web scraping, Puppeteer for browser automation
+- **Database**: Pinecone (vector database for fast search)
+- **Deployment**: Vercel
+- **Other Tools**: Langchain, RAG for AI data processing, OpenAI for text generation
