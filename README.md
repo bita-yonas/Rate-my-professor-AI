@@ -17,6 +17,7 @@ The **AI Rate My Professor Web App** allows users to submit links to professor p
 
 The app is designed to assist students in making more informed decisions when selecting courses or professors by aggregating and analyzing publicly available data.
 
+
 ## Features
 - Submit links to Rate My Professor pages
 - Automatically scrape and store professor data
