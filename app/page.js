@@ -1,5 +1,17 @@
 "use client";
-import { Button, TextField, Box, Stack, Typography, AppBar, Toolbar,handleAboutOpen,Dialog,aboutOpen, handleAboutClose, DialogTitle,DialogContent,DialogActions } from "@mui/material";
+import {
+  Button,
+  TextField,
+  Box,
+  Stack,
+  Typography,
+  AppBar,
+  Toolbar,
+  Dialog,
+  DialogTitle,
+  DialogContent,
+  DialogActions
+} from "@mui/material";
 import { useState, useEffect, useRef } from "react";
 
 export default function Home() {
@@ -13,6 +25,10 @@ export default function Home() {
 
   const [message, setMessage] = useState('');
   const chatContainer = useRef(null);
+  const [aboutOpen, setAboutOpen] = useState(false);
+
+  const handleAboutOpen = () => setAboutOpen(true);
+  const handleAboutClose = () => setAboutOpen(false);
 
   const sendMessage = async () => {
     const userMessage = { role: 'user', content: message };
